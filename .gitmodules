@@ -1,6 +1,7 @@
 [submodule "experiments/mpi"]
 	path = experiments/mpi
-	url = https://github.com/faasm/experiment-mpi.git
+	url = https://github.com/mmathys/experiment-mpi.git
+	branch = issue673-repro
 [submodule "experiments/microbench"]
 	path = experiments/microbench
 	url = https://github.com/faasm/experiment-microbench.git
